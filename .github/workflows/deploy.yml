@@ -27,6 +27,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        deploy_key: ${{ secrets.WEBSITE_DEPLOY_KEY }}
         publish_branch: publish
         publish_dir: ./public
+        user_name: 'github-pages[bot]'
+        user_email: 'github-pages[bot]@users.noreply.github.com'
