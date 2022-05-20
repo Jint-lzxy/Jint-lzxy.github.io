@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © 2020 Copyright.
+copyright: Copyright © 2018-2022 Jint-lzxy.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 # # disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
@@ -7,7 +7,7 @@ copyright: © 2020 Copyright.
 # # However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Jint-lzxy's personal blog that covers many aspects in my life.
+description: My personal blog that covers many aspects in my life.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -24,6 +24,6 @@ customMenus:
 openGraph:
   title: Jint-lzxy's Blog
   type: website
-  description: Jint-lzxy's personal blog that covers many aspects in my life
-  image: images/author/john.png
+  description: My personal blog that covers many aspects in my life
+  image: images/author/cover.png
   url: https://jint-lzxy.github.io

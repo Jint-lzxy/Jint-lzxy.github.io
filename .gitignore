@@ -6,4 +6,9 @@
 # Misc
 
 /.DS_Store
+content/.DS_Store
+assets/.DS_Store
+assets/images/.DS_Store
+assets/images/author/.DS_Store
+assets/images/site/.DS_Store
 /themes/.DS_Store
