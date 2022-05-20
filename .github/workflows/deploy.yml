@@ -30,5 +30,3 @@ jobs:
         deploy_key: ${{ secrets.WEBSITE_DEPLOY_KEY }}
         publish_branch: publish
         publish_dir: ./public
-        user_name: 'github-actions[bot]'
-        user_email: 'github-actions[bot]@users.noreply.github.com'
