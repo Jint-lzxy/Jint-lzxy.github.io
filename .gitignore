@@ -1,0 +1,9 @@
+# Now unused settings
+
+/netlify.toml
+/resources/*
+
+# Misc
+
+/.DS_Store
+/themes/.DS_Store
