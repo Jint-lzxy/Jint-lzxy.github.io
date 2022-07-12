@@ -7,7 +7,8 @@ copyright: Copyright © 2018-2022 Jint-lzxy.
 # # However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: My personal blog that covers many aspects in my life.
+description: My personal blog is that may let you know me better?
+
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -24,6 +25,6 @@ customMenus:
 openGraph:
   title: Jint-lzxy's Blog
   type: website
-  description: My personal blog that covers many aspects in my life
+  description: My personal blog is that may let you know me better?
   image: images/author/cover.png
   url: https://jint-lzxy.github.io
