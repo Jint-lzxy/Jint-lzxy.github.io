@@ -49,17 +49,17 @@ socialLinks:
 badges:
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 0
+  percentage: 50
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 0
+  percentage: 50
   color: yellow
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 0
+  percentage: 50
   color: orange
 
 # you can also provide color code instead of the color name
